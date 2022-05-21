@@ -1,6 +1,7 @@
 body {
   font-family:fantasy;
   background-image:url(./1063.png);
+  color:aliceblue;
 }
 #navbar table {
   position: sticky;
