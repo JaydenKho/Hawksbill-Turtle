@@ -6,7 +6,7 @@ body {
   position: sticky;
   top:0px;
   background-color:midnightblue;
-  color:aliceblue;
+  color:lightgreen;
 }
 .dropdown:hover .dropdown-content {
     display: block;
