@@ -2,7 +2,7 @@ body {
   font-family:fantasy;
   background-image:url(./1063.png);
 }
-#navbar table{
+#navbar table {
   position: sticky;
   top:0px;
   background-color:midnightblue;
