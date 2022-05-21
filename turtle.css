@@ -6,13 +6,13 @@ body {
   position: sticky;
   top:0px;
   background-color:midnightblue;
-  color:lightgreen;
+  color:aliceblue;
 }
 .dropdown:hover .dropdown-content {
     display: block;
 }
 .active {
-  background-color:skyblue;
+  background-color:aliceblue;
   color:midnightblue;
 }
 .dropdown {
