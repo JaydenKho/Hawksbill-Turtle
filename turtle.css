@@ -5,6 +5,23 @@ body {
 #navbar {
   position: sticky;
   top:0px;
-  background-color:black;
+  background-color:midnightblue;
   color:aliceblue;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.active {
+  background-color:skyblue;
+  color:midnightblue;
+}
+.dropdown {
+  display: inline-block;
+}
+.dropdown-content {
+  display: none;
+  color:darkblue;
+  position: absolute;
+  background-color:aliceblue;
+  box-shadow: 5px 5px 7px midnightblue;
 }
