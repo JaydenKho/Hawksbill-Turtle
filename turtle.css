@@ -27,3 +27,10 @@ body {
   background-color:aliceblue;
   box-shadow: 5px 5px 7px midnightblue;
 }
+header {
+    color: aliceblue);
+    font-size: 30px;
+    text-align: center;
+    border: 2px solid #518BB4;
+    background-color: #264E69;
+}
