@@ -35,3 +35,10 @@ header {
     border: 2px solid #518BB4;
     background-color: #264E69;
 }
+.image-overlap-info {
+    height: 150px;
+    width: 200px;
+    position: relative;
+    top: -180px;
+    left: 700px;
+}
