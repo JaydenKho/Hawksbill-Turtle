@@ -10,7 +10,7 @@ body {
   color:aliceblue;
 }
 .dropdown:hover .dropdown-content {
-    display: block;
+  display: block;
 }
 .active {
   background-color:aliceblue;
